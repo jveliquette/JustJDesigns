@@ -9,3 +9,5 @@ Welcome to my Digital Art Gallery, a collection of pieces crafted with passion a
 - **Interactive Experience:** The website provides an interactive experience, allowing you to click on each artwork to view it in detail.
 
 - **Technological Fusion:** Witness the blend of artistic expression and technological innovation through the use of JavaScript for interactivity and HTML/CSS for seamless presentation.
+
+-**Live Demo:** https://justjdesigns.netlify.app
