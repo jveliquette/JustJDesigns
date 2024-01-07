@@ -10,4 +10,4 @@ Welcome to my Digital Art Gallery, a collection of pieces crafted with passion a
 
 - **Technological Fusion:** Witness the blend of artistic expression and technological innovation through the use of JavaScript for interactivity and HTML/CSS for seamless presentation.
 
--**Live Demo:** https://justjdesigns.netlify.app
+-**Live Demo:** https://jveliquette.github.io/JustJDesigns/
